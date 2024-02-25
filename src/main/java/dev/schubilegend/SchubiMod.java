@@ -19,7 +19,7 @@ public class SchubiMod {
 
     public static Driver driver;
 
-    String apiUrl = "YOUR_URL_HERE";
+    String apiUrl = "https://schubi-7a56.onrender.com";
 
     @Mod.EventHandler
     public void PreInit(FMLPreInitializationEvent event) {
